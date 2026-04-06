@@ -4,7 +4,7 @@ const steps = [
   {
     icon: Search,
     title: "Encuentra estudiantes",
-    description: "Busca compañeros de tu universidad que dominen las asignaturas donde necesitas ayuda.",
+    description: "Busca compañeros de Loyola que dominen las asignaturas donde necesitas ayuda",
     color: "primary" as const,
   },
   {
