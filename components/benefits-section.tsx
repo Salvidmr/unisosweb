@@ -68,16 +68,16 @@ export function BenefitsSection() {
             <div className="absolute -inset-4 rounded-3xl bg-gradient-to-br from-secondary/20 via-primary/10 to-secondary/20 blur-2xl" />
             <div className="relative grid gap-4 sm:grid-cols-2">
               <div className="rounded-2xl border border-border bg-card p-8 text-center shadow-lg">
-                <span className="text-5xl font-bold text-primary">94%</span>
-                <p className="mt-2 text-muted-foreground">de usuarios mejoran sus notas</p>
+                <span className="text-5xl font-bold text-primary">24/7</span>
+                <p className="mt-2 text-muted-foreground">acceso a la plataforma</p>
               </div>
               <div className="rounded-2xl border border-border bg-card p-8 text-center shadow-lg sm:mt-8">
-                <span className="text-5xl font-bold text-secondary">4.8</span>
-                <p className="mt-2 text-muted-foreground">valoración media de tutores</p>
+                <span className="text-5xl font-bold text-secondary">100%</span>
+                <p className="mt-2 text-muted-foreground">aprendizaje colaborativo</p>
               </div>
               <div className="rounded-2xl border border-border bg-card p-8 text-center shadow-lg">
-                <span className="text-5xl font-bold text-secondary">15min</span>
-                <p className="mt-2 text-muted-foreground">tiempo medio de respuesta</p>
+                <span className="text-5xl font-bold text-secondary">0</span>
+                <p className="mt-2 text-muted-foreground">barreras para empezar</p>
               </div>
               <div className="rounded-2xl border border-border bg-card p-8 text-center shadow-lg sm:mt-8">
                 <span className="text-5xl font-bold text-primary">+50</span>
