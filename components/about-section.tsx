@@ -27,8 +27,7 @@ export function AboutSection() {
               Para estudiantes
             </h3>
             <p className="mt-3 text-muted-foreground leading-relaxed">
-              Diseñado específicamente para las necesidades académicas de universitarios 
-              de todas las carreras.
+              Diseñado específicamente para las necesidades académicas de universitarios de ADE
             </p>
           </div>
 
