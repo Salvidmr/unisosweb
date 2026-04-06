@@ -76,7 +76,7 @@ export function HeroSection() {
               </div>
               <div className="flex items-center gap-2">
                 <MessageCircle className="h-5 w-5 text-secondary" />
-                <span className="text-sm text-muted-foreground">10k+ dudas resueltas</span>
+                <span className="text-sm text-muted-foreground">2 formas de participar</span>
               </div>
             </div>
           </div>
