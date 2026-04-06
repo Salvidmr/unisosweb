@@ -38,7 +38,7 @@ export function BenefitsSection() {
               Beneficios
             </span>
             <h2 className="mt-4 text-3xl font-bold tracking-tight text-foreground sm:text-4xl text-balance">
-              Por qué miles de estudiantes eligen Unisos
+              Por qué elegir Unisos
             </h2>
             <p className="mt-6 text-lg text-muted-foreground leading-relaxed">
               Descubre cómo el aprendizaje colaborativo puede transformar tu experiencia universitaria.
