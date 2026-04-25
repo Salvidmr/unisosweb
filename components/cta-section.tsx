@@ -33,6 +33,7 @@ export function CtaSection() {
             <Button
               size="lg"
               variant="outline"
+              onClick={handleClick}
               className="w-full border-border text-foreground hover:bg-accent sm:w-auto"
             >
               Contactar
