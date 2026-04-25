@@ -4,6 +4,10 @@ import { Button } from "@/components/ui/button"
 import { ArrowRight, Check } from "lucide-react"
 
 export function CtaSection() {
+  const handleClick = () => {
+    window.open("https://form.typeform.com/to/RjAoMU8b", "_blank")
+  }
+
   return (
     <section className="bg-background py-24">
       <div className="mx-auto max-w-7xl px-6">
@@ -19,11 +23,13 @@ export function CtaSection() {
           <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <Button
               size="lg"
+              onClick={handleClick}
               className="w-full bg-primary text-primary-foreground hover:bg-primary/90 gap-2 sm:w-auto"
             >
               Únete a Unisos
               <ArrowRight className="h-4 w-4" />
             </Button>
+
             <Button
               size="lg"
               variant="outline"
