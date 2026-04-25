@@ -1,5 +1,3 @@
-"use client"
-
 import { Button } from "@/components/ui/button"
 import { ArrowRight, Users, BookOpen, MessageCircle } from "lucide-react"
 
@@ -28,9 +26,17 @@ export function HeroSection() {
               Beneficios
             </a>
           </nav>
-          <Button className="bg-primary text-primary-foreground hover:bg-primary/90">
-            Únete gratis
-          </Button>
+
+          {/* Botón Únete gratis */}
+          <a
+            href="https://form.typeform.com/to/RjAoMU8b"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button className="bg-primary text-primary-foreground hover:bg-primary/90">
+              Únete gratis
+            </Button>
+          </a>
         </div>
       </header>
 
@@ -56,10 +62,17 @@ export function HeroSection() {
             </p>
 
             <div className="flex flex-col gap-4 sm:flex-row">
-              <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 gap-2">
-                Apúntate a la beta
-                <ArrowRight className="h-4 w-4" />
-              </Button>
+              <a
+                href="https://form.typeform.com/to/RjAoMU8b"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 gap-2">
+                  Apúntate a la beta
+                  <ArrowRight className="h-4 w-4" />
+                </Button>
+              </a>
+
               <Button size="lg" variant="outline" className="border-border text-foreground hover:bg-accent">
                 Ver cómo funciona
               </Button>
@@ -121,6 +134,7 @@ export function HeroSection() {
               </div>
             </div>
           </div>
+
         </div>
       </div>
     </section>
