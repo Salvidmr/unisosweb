@@ -73,9 +73,11 @@ export function HeroSection() {
                 </Button>
               </a>
 
-              <Button href="#comofunciona" size="lg" variant="outline" className="border-border text-foreground hover:bg-accent">
-                Ver cómo funciona
-              </Button>
+              <a href="#comofunciona">
+                <Button size="lg" variant="outline" className="border-border text-foreground hover:bg-accent">
+                  Ver cómo funciona
+                </Button>
+              </a>
             </div>
 
             <div className="flex items-center gap-8 pt-4">
