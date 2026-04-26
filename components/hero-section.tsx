@@ -29,7 +29,7 @@ export function HeroSection() {
 
           {/* Botón Únete gratis */}
           <a
-            href="https://form.typeform.com/to/RjAoMU8b"
+            href="https://www.survio.com/survey/d/K8R3Y0I3W2B2E7S9T"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -63,7 +63,7 @@ export function HeroSection() {
 
             <div className="flex flex-col gap-4 sm:flex-row">
               <a
-                href="https://form.typeform.com/to/RjAoMU8b"
+                href="https://www.survio.com/survey/d/K8R3Y0I3W2B2E7S9T"
                 target="_blank"
                 rel="noopener noreferrer"
               >
