@@ -27,7 +27,7 @@ export function FloatingSocial() {
       {/* Botón ÚNETE con animación */}
       <div className="group relative">
         <a
-          href="https://form.typeform.com/to/RjAoMU8b"
+          href="https://www.survio.com/survey/d/K8R3Y0I3W2B2E7S9T"
           target="_blank"
           rel="noopener noreferrer"
           className="flex h-14 w-14 items-center justify-center rounded-full bg-primary text-white shadow-xl 
