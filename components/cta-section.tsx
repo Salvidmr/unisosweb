@@ -5,7 +5,7 @@ import { ArrowRight, Check } from "lucide-react"
 
 export function CtaSection() {
   const handleClick = () => {
-    window.open("https://form.typeform.com/to/RjAoMU8b", "_blank")
+    window.open("https://www.survio.com/survey/d/K8R3Y0I3W2B2E7S9T", "_blank")
   }
 
   return (
